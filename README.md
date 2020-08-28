@@ -12,7 +12,7 @@
 
 - Clone this repository onto your system.
 ```bash
-git clone https://github.com/thesarthakjain/discord-autospawn
+$ git clone https://github.com/thesarthakjain/discord-autospawn
 ```
 - Download python cryptography package.
 ```bash
