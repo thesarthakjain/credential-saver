@@ -24,6 +24,6 @@ $ pip install cryptography
 
 - Run the following commands in the project directory:
 ```
-python cred_creater.py		#to save encrypted credentials in 'cred.py' and the key in 'key.key'.
-python cred_reader.py		#to return the decrypted credentials.
+$ python cred_creater.py		#to save encrypted credentials in 'cred.py' and the key in 'key.key'.
+$ python cred_reader.py		#to return the decrypted credentials.
 ```
